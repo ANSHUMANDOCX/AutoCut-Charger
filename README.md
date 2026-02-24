@@ -22,6 +22,6 @@ Its pretty simple to use we just need to connect a 12-0-12 transformer to the ci
 | Name                                                                                           | Qty | Vendor     | Price ($) |
 | ---------------------------------------------------------------------------------------------- | --- | ---------- | --------- |
 | ALL BOM parts mosfet,resistor capacitors etc  |  | LCSC | 14     |
-| [12-0-12 10A](https://electronicspices.com/product/12-0-12-12v-5amp-center-tapped-step-down-transformer) | 1   | ElectronicsSpices       | 6      |
+| [12-0-12 3A](https://robu.in/product/high-quality-12v-0v-12v-3a-center-tapped-stepdown-transformer/) | 1   | ROBU      | 6      |
 |PCB||JLCPCB|5|
 |Total|||25|
