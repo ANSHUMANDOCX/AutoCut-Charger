@@ -3,6 +3,9 @@
 This board is designed for trickle charging a lead acid battery and turn of the charging automatically once it reaches the max rated voltage of the battery automatically. the cutoff voltage can be set using the trim pot.
 ## How to use 
 Its pretty simple to use we just need to connect a 12-0-12 transformer to the circuit and the ac voltage will be rectified from Full bridge rectifier then using RV1 we set the output voltage and measure it using a multimeter one we are at it then we will use the rv2 to set the cutoff voltage we will know that we are at the cutoff when we will see the full led turned on and the relay clicks.
+## Connection Guide 
+The connections are pretty straight froward the 12-0-12 from the center tap transformer goes to the 3 pin terminal of the PCB and the battery +ve and -ve is connected to the 2 pin terminal on the labelled pins
+
 
 ## Parts Requried 
 - 12-0-12 transformer 
