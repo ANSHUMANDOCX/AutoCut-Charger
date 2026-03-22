@@ -15,8 +15,8 @@ The connections are pretty straight froward the 12-0-12 from the center tap tran
 
 ## PCB and Schematic and CAD
 
-<img width="677" height="343" alt="Screenshot 2026-01-25 002654" src="https://github.com/user-attachments/assets/d5700362-9e8f-4afb-bf5d-2d1044c80f93" />
-<img width="914" height="460" alt="Screenshot 2026-01-25 002048" src="https://github.com/user-attachments/assets/49a0edaf-1613-42f1-af0e-51bb1316dfab" />
+<img width="595" height="306" alt="image" src="https://github.com/user-attachments/assets/322409dd-e026-4346-9ed5-ef633f605875" />
+<img width="1073" height="531" alt="image" src="https://github.com/user-attachments/assets/9f42ce76-1c56-4344-8653-94625bd0850d" />
 <img width="1374" height="347" alt="Screenshot 2026-01-24 192306" src="https://github.com/user-attachments/assets/8f379d24-2389-4262-898d-ea417f5823ca" />
 <img width="1030" height="673" alt="Screenshot 2026-02-12 204520" src="https://github.com/user-attachments/assets/dd3b2a4e-5754-4921-9015-883352587d7d" />
 
